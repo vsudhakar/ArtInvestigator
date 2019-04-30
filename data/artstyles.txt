@@ -1,0 +1,120 @@
+Selected Artwork Styles
+
+Renaissance Art
+===============
+Proto Renaissance	353
+Early Renaissance	1690
+High Renaissance	1528
+Mannerism (Late Renaissance)	1509
+Northern Renaissance	2909
+Renaissance	20 
+
+Post Renaissance Art
+=====================
+Baroque	5995
+Tenebrism	243
+Rococo	2870
+Classicism	242
+Neoclassicism	3513
+Academicism	1229
+Romanticism	11614
+Orientalism	482
+Costumbrismo	19
+Biedermeier	134
+Neo-Rococo	100
+Luminism	399
+Realism	14508 
+
+Modern Art
+===========
+American Realism	328
+Naturalism	493
+Naïve Art (Primitivism)	3763
+Social Realism	700
+Action painting	105
+Surrealism	7068
+Automatic Painting	69
+Symbolism	4948
+Metaphysical art	256
+Tonalism	269
+Impressionism	15167
+Magic Realism	1448
+Fantastic Realism	410
+Pointillism	549
+Divisionism	403
+Neo-baroque	243
+Art Deco	969
+Japonism	190
+Purism	174
+Verism	92
+Post-Impressionism	7617
+Precisionism	355
+Cloisonnism	180 
+Regionalism	429
+Socialist Realism	519
+Synthetism	53
+Intimism	110
+New Medievialism	7
+Fauvism	974
+Muralism	182
+Art Nouveau (Modern)	6542
+Cartographic Art	51
+Existential Art	32
+Pictorialism	243
+Expressionism	11331
+Lettrism	52
+Kitsch	390
+Mechanistic Cubism	70
+Miserablism	9
+Neo-Romanticism	678
+Abstract Expressionism	4425
+Cubism	3043
+Analytical Cubism	119
+Color Field Painting	1588
+Hard Edge Painting	615
+Synthetic Cubism	236
+Lyrical Abstraction	1178
+Orphism	276
+Indian Space painting	26
+Tubism	22
+Cubo-Expressionism	19
+Street Photography	67
+Abstract Art	2016
+Figurative Expressionism	234
+Art Informel	1837
+Futurism	382
+Cubo-Futurism	179
+Tachisme	576
+Neo-Concretism	89
+Rayonism	15
+Synchromism	16
+Performance Art	50
+Dada	424
+Transautomatism	82
+Suprematism	134
+Sots Art	15
+Neo-Byzantine	18
+Post-Painterly Abstraction	349
+Constructivism	477
+Severe Style	8
+Feminist Art	334
+Spectralism	5
+Fiber art	17
+Modernismo	138
+Mail Art	17
+Neo-Suprematism	65
+Analytical Realism	90
+Outsider art	127
+Art Brut	397
+Neoplasticism	178
+Concretism	774
+Neo-Expressionism	1553
+Neo-Dada	442
+Perceptism	8
+Neo-Figurative Art	178
+New Realism	421
+Kinetic Art	295
+Spatialism	165
+Op Art	1152 
+Pop Art	2136
+Nouveau Réalisme	323

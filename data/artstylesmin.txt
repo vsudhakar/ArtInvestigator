@@ -1,0 +1,41 @@
+Selected Artwork Styles
+
+Renaissance Art
+===============
+Proto Renaissance	353
+Early Renaissance	1690
+High Renaissance	1528
+Mannerism (Late Renaissance)	1509
+Northern Renaissance	2909
+Renaissance	20 
+
+Post Renaissance Art
+=====================
+Baroque	5995
+Tenebrism	243
+Rococo	2870
+Classicism	242
+Neoclassicism	3513
+Academicism	1229
+Romanticism	11614
+Orientalism	482
+Costumbrismo	19
+Biedermeier	134
+Neo-Rococo	100
+Luminism	399
+Realism	14508 
+
+Modern Art
+===========
+American Realism	328
+Naturalism	493
+Surrealism	7068
+Impressionism	15167
+Fantastic Realism	410
+Neo-baroque	243
+Post-Impressionism	7617
+Expressionism	11331
+Abstract Expressionism	4425
+Cubism	3043
+Dada	424
+Pop Art	2136
